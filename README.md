@@ -4,6 +4,12 @@
 yarn
 ```
 
+# start
+
+```
+yarn start
+```
+
 # Build
 
 ```
