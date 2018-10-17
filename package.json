@@ -1,0 +1,20 @@
+{
+	"name": "lundegaard-tech-stack-fp-js",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/tommmyy/lundegaard-tech-stack-fp-js.git",
+	"author": "Tomáš Konrády <tomaskonrady@gmail.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"clean-webpack-plugin": "^0.1.19",
+		"eslint": "^5.6.0",
+		"html-webpack-plugin": "^3.2.0",
+		"prettier": "^1.14.3",
+		"webpack": "^4.20.2",
+		"webpack-cli": "^3.1.2"
+	},
+	"scripts": {
+		"build": "webpack --mode production",
+		"build:dev": "webpack --mode development"
+	}
+}

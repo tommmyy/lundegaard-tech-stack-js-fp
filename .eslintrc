@@ -1,0 +1,18 @@
+{
+    "extends": "eslint:recommended",
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module"
+    },
+    "env": {
+        "browser": true,
+        "node": true
+    },
+    "rules": {
+        "indent": ["error", "tab"],
+        "no-tabs": 0,
+        "quote-props": ["error", "as-needed"],
+        "semi": ["error", "always"],
+        "space-before-function-paren": ["error", "never"]
+    }
+}
