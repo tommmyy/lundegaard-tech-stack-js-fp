@@ -4,14 +4,8 @@
 yarn
 ```
 
-# start
+# run script
 
 ```
-yarn start
-```
-
-# Build
-
-```
-yarn build
+yarn task src/task-01
 ```

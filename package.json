@@ -16,8 +16,6 @@
 		"prettier": "^1.14.3"
 	},
 	"scripts": {
-		"task": "nodemon --exec babel-node",
-		"task-01": "yarn task src/task-01.js",
-		"task-02": "yarn task src/task-02.js"
+		"task": "nodemon --exec babel-node"
 	}
 }
